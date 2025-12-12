@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Veri Filtreleme ve Sıralama Projesi
+
+## TechCareer_Atolye_DS_BitirmeProjesi_1
 
 Bu proje, `country.csv` veri seti üzerinde Pandas kütüphanesi kullanılarak çeşitli veri analizi, filtreleme ve sıralama işlemlerini içermektedir.
 
@@ -22,7 +22,6 @@ Projenin çalışması için Python ve Pandas kütüphanesine ihtiyaç vardır.
 1.  Projeyi bilgisayarınıza indirin.
 2.  Terminal veya komut satırında proje klasörüne gidin.
 3.  `Veri_filtreleme_sıralama_projesi.ipynb` dosyasını Jupyter Notebook veya VS Code ile açarak hücreleri sırasıyla çalıştırın.
-=======
-# TechCareer_Atolye_DS_BitirmeProjesi_1
-TechCareer Atölye: Veri Bilimine Giriş bitirme projesi 1.
->>>>>>> 9fda0256b185a6537e396eef456fb0603390b5c3
+ 
+
+
