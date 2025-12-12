@@ -1,5 +1,5 @@
 
-## TechCareer_Atolye_DS_BitirmeProjesi_1
+## TechCareer_Atolye_DS_BitirmeProjesi
 
 Bu proje, `country.csv` veri seti üzerinde Pandas kütüphanesi kullanılarak çeşitli veri analizi, filtreleme ve sıralama işlemlerini içermektedir.
 
@@ -23,6 +23,8 @@ Projenin çalışması için Python ve Pandas kütüphanesine ihtiyaç vardır.
 2.  Terminal veya komut satırında proje klasörüne gidin.
 3.  `Veri_filtreleme_sıralama_projesi.ipynb` dosyasını Jupyter Notebook veya VS Code ile açarak hücreleri sırasıyla çalıştırın.
  
+
+
 # Veri Görselleştirme Projesi
 
 Bu proje, `50_Startups.csv` veri seti üzerinde Matplotlib ve Pandas kütüphaneleri kullanılarak çeşitli veri görselleştirme çalışmalarını içermektedir.
@@ -50,6 +52,7 @@ Projenin çalışması için Python, Pandas ve Matplotlib kütüphanelerine ihti
 1.  Projeyi bilgisayarınıza indirin.
 2.  Terminal veya komut satırında proje klasörüne gidin.
 3.  `Veri_Görsellestirme_odevi.ipynb` dosyasını Jupyter Notebook veya VS Code ile açarak hücreleri sırasıyla çalıştırın.
+
 
 
 
